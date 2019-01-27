@@ -1,0 +1,58 @@
+.search-input {
+  width: 150px;
+  height: 30px;
+  text-align: center;
+  display: inline;
+  margin-left: 45%;
+  font-family: 'Ubuntu', sans-serif;
+  margin-top: 50px;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-size: medium;
+}
+
+
+#search-results li {
+  list-style-type: none;
+  margin-left: 33%;
+  margin-top: 10px;
+  padding-left: 30px;
+  border: 2px solid black;
+  border-radius: 15px;
+  width: 33%;
+  display: inline-block;
+  background: linear-gradient(89deg, rgb(152, 204, 131) 0%, rgb(161, 227, 221) 100%);
+  font-family: 'Ubuntu', sans-serif;
+
+}
+
+.submit-button {
+  height: 35px;
+  width: 85px;
+  border-radius: 5px;
+  border: 2px solid #25753B;
+  background: linear-gradient(180deg, rgb(46, 199, 82) 30%, rgb(38, 159, 66) 70%);
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bolder;
+  font-size: medium;
+  color: white;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  background-color: #24292E;
+  margin: 0px;
+  padding: 10px;
+}
+
+html {
+  background-color:#F6F8FA;
+
+
+}
+body{
+  margin: 0;
+}
+
